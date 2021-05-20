@@ -1,6 +1,10 @@
 body{
     background-color: black;
 }
+.icono{
+    width: 2rem;
+    height: 2rem;
+}
 .hero-section{
     background-image: url(assets/img/);
 }
@@ -13,6 +17,9 @@ body{
     background-color: #17a3b8;
 }
 .altura-imagen{
-    height: 35%;
+    max-height: 35%;
     width: 100%;
+}
+.celeste2{
+    color: #17a3b8;
 }
